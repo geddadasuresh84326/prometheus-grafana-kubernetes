@@ -1,1 +1,1 @@
-# app-using-prometheus-grafana-kubernetes
+# prometheus-grafana-kubernetes
